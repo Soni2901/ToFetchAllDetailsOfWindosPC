@@ -1,7 +1,7 @@
 # ToFetchAllDetailsOfWindosPC
 
 
-In this Project, I have written code to fetch saveral deatils of Windows PC which is mentioned below:
+In this Project, I have written code in Python to fetch saveral deatils of Windows PC which is mentioned below:
 
 1. All installed software's list:
 2. Internet Speed
